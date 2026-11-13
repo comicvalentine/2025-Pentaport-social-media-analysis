@@ -1,4 +1,4 @@
-### [아티클 참조](https://lab-chasm.vercel.app/article/15)
+### [아티클 참조](https://labchasm.com/article/15)
 
 <div align="center">
   <img src="./fig/sentiment_by_topic.png" alt="Sentiment by Topic" width="45%"/>
